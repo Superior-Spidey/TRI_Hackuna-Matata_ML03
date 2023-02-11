@@ -2,8 +2,8 @@ State,Region,Tmin,Tmax
 Karnataka,Karnataka-Goa-Kerala,19.38,29.93
 Orissa North,Jharkhand-Chhattisgarh-Bihar-WestBengal,22.29,32.24
 Tamil Nadu,TamilNadu-AndhraPradesh-Telangana South,24.38,33.90
-Delhi-Haryana-Punjab-North UP,18.87,31.78
-Lucknow,South UP-,18.79,32.49
+Delhi,Delhi-Haryana-Punjab-North UP,18.87,31.78
+Lucknow,South UP,18.79,32.49
 Mumbai,Mumbai-Gujarat,22.6,32.31
-Jodhpur,Rajasthan19.38,29.9
-Orissa south,Orissa-Telangana North22.23,32.99
+Jodhpur,Rajasthan,19.38,29.9
+Orissa south,Orissa-Telangana North,22.23,32.99
