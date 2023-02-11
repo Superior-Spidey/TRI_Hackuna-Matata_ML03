@@ -1,2 +1,2 @@
-# TRI_Hackuna-Matata_ML03
+# TRI-NIT_Hackuna-Matata_ML03
 Submission repository for Tri-NIT hackathon
